@@ -4,6 +4,7 @@
 
 body {
     height: 100vh;
+    max-width: 100vw;
     background-color:  rgba(0, 213, 255, 0.08);
     overflow-x: hidden !important;
 }
