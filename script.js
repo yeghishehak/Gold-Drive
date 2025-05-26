@@ -1,3 +1,7 @@
+document.addEventListener('dblclick', function (e) {
+  e.preventDefault();
+});
+
 const pricelist = document.querySelector(".pricelist");
 
 pricelist.addEventListener("click", function(event) {
